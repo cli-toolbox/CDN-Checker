@@ -1,7 +1,7 @@
 class CdnChecker < Formula
   desc "Tool to find and validate CDN URLs in web projects"
   homepage "https://github.com/cli-toolbox/CDN-Checker"
-  url "https://github.com/cli-toolbox/CDN-Checker/archive/refs/tags/0.1.tar.gz"
+  url "https://github.com/cli-toolbox/CDN-Checker/archive/0.1.tar.gz"
   sha256 "36804352a0f2f9d2de9098205bb1dde4505d8ec612d5ea3635a8f6f71074f7b0"
   license "MIT"
 
