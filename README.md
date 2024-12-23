@@ -2,6 +2,26 @@
 
 A command-line tool that scans your web projects for CDN URLs and validates their accessibility.
 
+
+## Installation
+
+Using curl:
+```bash
+curl -o- https://raw.githubusercontent.com/cli-toolbox/CDN-Checker/refs/heads/main/install.sh | bash
+```
+
+Using wget:
+```bash
+wget -qO- https://raw.githubusercontent.com/cli-toolbox/CDN-Checker/refs/heads/main/install.sh | bash
+```
+
+After installation, close and reopen your terminal or source your profile:
+```bash 
+source ~/.bashrc  # or ~/.zshrc, ~/.profile, depending on your shell
+```
+
+
+
 ## Benefits
 
 - Automatically detects CDN URLs in HTML, CSS, and PHP files
